@@ -1,0 +1,18 @@
+<h1>Welcome to the game <%= @player_name %></h1>
+
+<form action="/game" method="post">
+  <label for="rock">
+    <input type="submit" name ='button' value="Rock">
+  </label>
+  <label for="paper">
+    <input type="submit" name ='button' value="Paper">
+  </label>
+  <label for="scissors">
+    <input type="submit" name ='button' value="Scissors">
+  </label>
+</form>
+
+<h2>You selected <%= @player_button %></h2><br>
+
+Computer selected <%= @robot %>
+

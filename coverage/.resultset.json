@@ -1,0 +1,147 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/rps-challenge_1/app.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          4,
+          null,
+          null,
+          1,
+          4,
+          4,
+          4,
+          null,
+          null,
+          null,
+          1,
+          6,
+          6,
+          6,
+          6,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          2,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/rps-challenge_1/lib/robot.rb": {
+        "lines": [
+          1,
+          1,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/rps-challenge_1/spec/features/enter_name_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/rps-challenge_1/spec/features/game_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          3,
+          3,
+          3,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/rps-challenge_1/spec/unit/game_rps_spec.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/paulandariasperez/Desktop/MAKERS/cloned_repos/rps-challenge_1/spec/unit/robot_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1588589787
+  }
+}
